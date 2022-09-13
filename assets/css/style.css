@@ -1,3 +1,32 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.bg-section {
+    background-color: #ffeee6;
+}
+
+.text-main {
+    color: #4e4039 !important;
+}
+
+.text-sub {
+    color: #998981 !important;
+}
+
+.mt-6 {
+    margin-top: 6rem !important;
+}
+
+.cus-card {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.cus-card .icon {
+    color: #ffc107;
+}
+
+.cus-card .title {
+    margin-top: 1rem !important;
+}
