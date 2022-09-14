@@ -21,12 +21,23 @@ body {
 .cus-card {
     background-color: #fff;
     border-radius: 5px;
+    text-align: center;
+    padding: 20px 14px;
+    margin: 19px 0 0;
 }
 
 .cus-card .icon {
     color: #ffc107;
+    font-size: 52px;
 }
 
 .cus-card .title {
-    margin-top: 1rem !important;
+    margin: 2px 0 8px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.cus-accordion .accordion-button {
+    color: #0c63e4;
+    background-color: #f7f7f7;
 }
